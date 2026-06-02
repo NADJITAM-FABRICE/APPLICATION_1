@@ -1,2 +1,15 @@
-# APPLICATION_1
-Application de gestion d'équipements 
+---
+title: Projet Api1
+emoji: 🏃
+colorFrom: gray
+colorTo: indigo
+sdk: gradio
+sdk_version: 6.14.0
+python_version: '3.13'
+app_file: app.py
+pinned: false
+license: mit
+short_description: API FastAPI pour randomForest
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
